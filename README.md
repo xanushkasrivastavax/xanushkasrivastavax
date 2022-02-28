@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xanushkasrivastavax
 - 👀 I’m interested in Data Structures and Algorithm and Development.
-- 🌱 I’m currently learning Full Stack Development and Data Science
+- 🌱 I’m currently learning Full Stack Development 
 - 📫 How to reach me 
     my git
 

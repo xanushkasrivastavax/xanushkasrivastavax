@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xanushkasrivastavax
-- 👀 I’m interested in Data Structures and Algorithm and Web Development.
-- 🌱 I’m currently learning Full Stack Development 
+- 👀 I’m interested in Data Structures and Algorithm and Web and App Development.
+- 🌱 I’m currently working as a SDE-1 at MaxHealthCare having 1.5 year of experience 
 - 📫 How to reach me 
     my git
 

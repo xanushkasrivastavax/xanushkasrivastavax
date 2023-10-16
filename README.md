@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xanushkasrivastavax
 - 👀 I’m interested in Data Structures and Algorithm and Web and App Development.
-- 🌱 I’m currently working as a SDE-1 having 1.5 year of FTE work experience 
+- 🌱 I’m currently working as a SDE-1 having 1.8 year of FTE work experience 
 - 📫 How to reach me 
     my git
 
